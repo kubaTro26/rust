@@ -1,0 +1,2 @@
+[04-Aug-2022 14:33:27 UTC] PHP Warning:  require_once(/home/weblide2/public_html/rust/.well-known/wp-includes/load.php): failed to open stream: No such file or directory in /home/weblide2/public_html/rust/.well-known/wp-load.php on line 62
+[04-Aug-2022 14:33:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/weblide2/public_html/rust/.well-known/wp-includes/load.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/weblide2/public_html/rust/.well-known/wp-load.php on line 62
